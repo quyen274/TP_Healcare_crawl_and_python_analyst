@@ -1,4 +1,4 @@
-# TP_Healcare_crawl_and_python_analyst
+# TP_Healthcare_crawl_and_python_analyst
 ## ⚠️Mọi phần trong này đề được xóa dữ liệu liên quan đến dự án và không tác động đến hoạt động đang diễn ra ( chỉ là minh chứng tôi đã làm việc trong dự án)</p>
 ### Thu thập, xây dựng xử lý dữ liệu về thuốc và các sản phẩn thuốc
 ### Sử dụng AI để phân nhóm đối tượng khách hàng và thuốc trong sử dụng thuốc
